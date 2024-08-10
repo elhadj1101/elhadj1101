@@ -4,7 +4,7 @@ I'm an Aspiring Software Engineer and Computer Science student at the Higher Nat
 
 ## 🚀 Skills
 - **Languages:** Python, dart
-- **Frameworks/Libraries:**  Django , Django Restframework
+- **Frameworks/Libraries:**  Django , Django Restframework , Fastapi , Svelte
 - **Databases:** MySQL
 - **Others:** Git, RESTful APIs
 
